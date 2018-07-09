@@ -1,0 +1,6 @@
+framework module Pods_RxMoya {
+  umbrella header "Pods-RxMoya-umbrella.h"
+
+  export *
+  module * { export * }
+}
